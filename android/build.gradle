@@ -26,6 +26,7 @@ apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 33
+    namespace "com.clevertap.clevertap_plugin"
 
     defaultConfig {
         minSdkVersion 19
